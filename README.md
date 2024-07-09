@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarlonJMejia
 - 👀 I’m interested in Python and Infrastructure Automation
 - 🌱 I’m currently learning Golang, CI/CD, Terraform and Kubernetes
-- 📫 You can reach me via email on hire@mmejia.me
+- 📫 You can reach me via email on marlon.junior.mejia@gmail.com
 
 <!---
 MarlonJMejia/MarlonJMejia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
